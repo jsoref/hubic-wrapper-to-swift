@@ -66,7 +66,7 @@ program will request application and user credentials :
 Please use the above variable names but replace values with your own
 credentials.
 
-hubic.py will then perform all authentification steps.
+hubic.py will then perform all authentication steps.
 If succeed, you will get your own access and refresh token to the hubiC API.
 
     HUBIC_ACCESS_TOKEN=c9225cbbfe25ec72892e34ac3c6e61c3ee6b5c9259bd0a77e
